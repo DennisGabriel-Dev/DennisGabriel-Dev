@@ -7,9 +7,10 @@
   
 ***  
 ![](https://img.shields.io/badge/-JAVA-informational/?style=for-the-badge&logo=java&color=orange&labelColor=black)
+![](https://img.shields.io/badge/-SpringBoot-informational/?style=for-the-badge&logo=SpringBoot&color=lime&labelColor=black)
 ![](https://img.shields.io/badge/-Python-informational/?style=for-the-badge&logo=python&color=blue&labelColor=black)
+![](https://img.shields.io/badge/-JS-informational/?style=for-the-badge&logo=JavaScript&color=yellow&labelColor=black)
 ![](https://img.shields.io/badge/-NODEJS-informational/?style=for-the-badge&logo=node.js&color=59A03F&labelColor=black)
-  
   
 ---
  ### _My social Medias_
