@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/-NODEJS-informational/?style=for-the-badge&logo=node.js&color=59A03F&labelColor=black)
 ![](https://img.shields.io/badge/-HTML-informational/?style=for-the-badge&logo=HTML5&color=darkorange&labelColor=black)
 ![](https://img.shields.io/badge/-CSS-informational/?style=for-the-badge&logo=CSS3&color=darkblue&labelColor=black)
-![](https://img.shields.io/badge/-JavaScript-informational/?style=for-the-badge&logo=JavaScript&color=yellow&labelColor=black)
+![](https://img.shields.io/badge/-JS-informational/?style=for-the-badge&logo=JavaScript&color=yellow&labelColor=black)
 ![](https://img.shields.io/badge/-Bootstrap-informational/?style=for-the-badge&logo=bootstrap&color=800080&labelColor=black)
 ![](https://img.shields.io/badge/-Git-informational/?style=for-the-badge&logo=git&color=darkorange&labelColor=black)
 ---
