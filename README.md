@@ -22,7 +22,7 @@
  <div> 
   <a href="https://www.youtube.com/channel/UCo8JqfDyJcoFua85ghWuZ_Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
      <a href="https://medium.com/@dennisgabr745" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/dennis-g-b482821ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/dennisgabriel-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/dennisgabriel.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.duolingo.com/profile/dennis.en" target="_blank"><img src="https://img.shields.io/badge/-Duolingo-23E4405F?style=for-the-badge&logo=duolingo&logoColor=white" target="_blank"></a>
  
