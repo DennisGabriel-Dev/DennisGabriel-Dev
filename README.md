@@ -6,15 +6,16 @@
 </div>
   
 ***  
-![](https://img.shields.io/badge/-JAVA-informational/?style=for-the-badge&logo=java&color=orangered&labelColor=black)
+![](https://img.shields.io/badge/-Java-informational/?style=for-the-badge&logo=java&color=orangered&labelColor=black)
 ![](https://img.shields.io/badge/-SpringBoot-informational/?style=for-the-badge&logo=SpringBoot&color=lime&labelColor=black)
 ![](https://img.shields.io/badge/-Python-informational/?style=for-the-badge&logo=python&color=blue&labelColor=black)
-![](https://img.shields.io/badge/-NODEJS-informational/?style=for-the-badge&logo=node.js&color=59A03F&labelColor=black)
 ![](https://img.shields.io/badge/-HTML-informational/?style=for-the-badge&logo=HTML5&color=darkorange&labelColor=black)
 ![](https://img.shields.io/badge/-CSS-informational/?style=for-the-badge&logo=CSS3&color=darkblue&labelColor=black)
 ![](https://img.shields.io/badge/-JavaScript-informational/?style=for-the-badge&logo=JavaScript&color=yellow&labelColor=black)
+![](https://img.shields.io/badge/-NODEJS-informational/?style=for-the-badge&logo=node.js&color=59A03F&labelColor=black)
 ![](https://img.shields.io/badge/-Bootstrap-informational/?style=for-the-badge&logo=bootstrap&color=800080&labelColor=black)
 ![](https://img.shields.io/badge/-Git-informational/?style=for-the-badge&logo=git&color=darkorange&labelColor=black)
+![](https://img.shields.io/badge/-MySQL-informational/?style=for-the-badge&logo=mysql&color=2584FF&labelColor=black)
 ---
  ### _My social Medias_
  
