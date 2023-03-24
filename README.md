@@ -24,7 +24,7 @@
 
 ## Tools:
 ![](https://img.shields.io/badge/-Git-informational/?style=for-the-badge&logo=git&color=darkorange&labelColor=black)
-![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=orange&labelColor=black)
+
   
 
 ---
@@ -32,6 +32,7 @@
  
   
  <div> 
+  <a href="https://gitlab.com/DennisGabriel-Dev"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=orange&labelColor=black" target="_blank">
   <a href="https://www.youtube.com/channel/UCo8JqfDyJcoFua85ghWuZ_Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
      <a href="https://medium.com/@dennisgabr745" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/dennisgabriel-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
