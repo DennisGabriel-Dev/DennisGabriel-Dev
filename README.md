@@ -6,18 +6,29 @@
 </div>
   
 ***  
-![](https://img.shields.io/badge/-Java-informational/?style=for-the-badge&logo=java&color=orangered&labelColor=black)
-![](https://img.shields.io/badge/-SpringBoot-informational/?style=for-the-badge&logo=SpringBoot&color=lime&labelColor=black)
+
+## Langs and Web: <br>
+![](https://img.shields.io/badge/-Java-informational/?style=for-the-badge&logo=java17&color=orangered&labelColor=black)
 ![](https://img.shields.io/badge/-Python-informational/?style=for-the-badge&logo=python&color=blue&labelColor=black)
+![](https://img.shields.io/badge/-JavaScript-informational/?style=for-the-badge&logo=JavaScript&color=yellow&labelColor=black)
 ![](https://img.shields.io/badge/-HTML-informational/?style=for-the-badge&logo=HTML5&color=darkorange&labelColor=black)
 ![](https://img.shields.io/badge/-CSS-informational/?style=for-the-badge&logo=CSS3&color=darkblue&labelColor=black)
-![](https://img.shields.io/badge/-JavaScript-informational/?style=for-the-badge&logo=JavaScript&color=yellow&labelColor=black)
+
+## Frameworks:<br>
+![](https://img.shields.io/badge/-SpringBoot-informational/?style=for-the-badge&logo=SpringBoot&color=lime&labelColor=black)
 ![](https://img.shields.io/badge/-NODEJS-informational/?style=for-the-badge&logo=node.js&color=59A03F&labelColor=black)
 ![](https://img.shields.io/badge/-Bootstrap-informational/?style=for-the-badge&logo=bootstrap&color=800080&labelColor=black)
-![](https://img.shields.io/badge/-Git-informational/?style=for-the-badge&logo=git&color=darkorange&labelColor=black)
+
+## Database:
 ![](https://img.shields.io/badge/-MySQL-informational/?style=for-the-badge&logo=mysql&color=2584FF&labelColor=black)
+
+## Tools:
+![](https://img.shields.io/badge/-Git-informational/?style=for-the-badge&logo=git&color=darkorange&labelColor=black)
+![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=orange&labelColor=black)
+  
+
 ---
- ### _My social Medias_
+ ### _My social Medias:_
  
   
  <div> 
