@@ -24,7 +24,10 @@
 
 ## Tools:
 ![](https://img.shields.io/badge/-Git-informational/?style=for-the-badge&logo=git&color=darkorange&labelColor=black)
-
+  
+## Systems:
+![](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
   
 
 ---
