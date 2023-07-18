@@ -42,6 +42,4 @@
   <a href="https://instagram.com/dennisgabriel.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.duolingo.com/profile/dennis.en" target="_blank"><img src="https://img.shields.io/badge/-Duolingo-23E4405F?style=for-the-badge&logo=duolingo&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
