@@ -9,6 +9,7 @@
 
 ## Languages and Web: <br>
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
+![](https://img.shields.io/badge/Ruby-informational?style=for-the-badge&logo=ruby&logoColor=900808&color=900808&labelColor=black)
 ![](https://img.shields.io/badge/-Python-informational/?style=for-the-badge&logo=python&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/-JavaScript-informational/?style=for-the-badge&logo=JavaScript&color=yellow&labelColor=black)
 ![](https://img.shields.io/badge/-HTML-informational/?style=for-the-badge&logo=HTML5&color=darkorange&labelColor=black)
@@ -16,6 +17,7 @@
 
 ## Frameworks:<br>
 ![](https://img.shields.io/badge/-SpringBoot-informational/?style=for-the-badge&logo=SpringBoot&color=009000&labelColor=black)
+![](https://img.shields.io/badge/-Ruby_On_Rails-informational/?style=for-the-badge&logo=RubyOnRails&color=900808&labelColor=black)
 ![](https://img.shields.io/badge/-Bootstrap-informational/?style=for-the-badge&logo=bootstrap&color=800080&labelColor=black)
 
 ## Database:
