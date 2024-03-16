@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/-CSS-informational/?style=for-the-badge&logo=CSS3&color=darkblue&labelColor=black)
 
 ## Frameworks:<br>
-![](https://img.shields.io/badge/-Ruby_On_Rails-informational/?style=for-the-badge&logo=RubyOnRails&color=900808&labelColor=black)
+![](https://img.shields.io/badge/-Ruby_On_Rails-informational/?style=for-the-badge&logo=RubyOnRails&color=900808&labelColor=black&logoColor=900808)
 ![](https://img.shields.io/badge/hotwire-20B2AA?style=for-the-badge&logo=hotwire&labelColor=black)
 ![](https://img.shields.io/badge/-SpringBoot-informational/?style=for-the-badge&logo=SpringBoot&color=009000&labelColor=black)
 ![](https://img.shields.io/badge/-Bootstrap-informational/?style=for-the-badge&logo=bootstrap&color=800080&labelColor=black)
