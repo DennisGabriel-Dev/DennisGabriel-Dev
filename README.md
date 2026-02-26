@@ -3,7 +3,7 @@
 ==================
 Connect With Me
 
-» LinkedIn      → [https://www.linkedin.com/in/dennisgabriel-dev/](https://www.linkedin.com/in/dennisgabriel-dev/)
+» LinkedIn      → https://www.linkedin.com/in/dennisgabriel-dev
 » Email         → dennisgabr745@gmail.com
 
 --------------
